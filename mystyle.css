@@ -1,0 +1,12 @@
+body {
+  background-image: url('Render.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1 {
+  font-family: Helvetica, Arial;
+  font-size: 48px;
+  color:rgb(255,255,255);
+}
